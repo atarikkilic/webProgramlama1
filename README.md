@@ -1,4 +1,4 @@
-# https://www.davidchuschinabistro.com/ sitesinin frontend birebir yeniden tasarımı 
+# https://www.davidchuschinabistro.com/ sitesinin frontend responsive birebir yeniden tasarımı 
 ## BS435 Web Programlama 1 Dersi Vize Ödevi
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
 
